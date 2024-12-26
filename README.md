@@ -46,7 +46,8 @@ In timing diagram Q0 is changing as soon as the negative edge of clock pulse is 
 
 ### RTL OUTPUT :
 
-![sc down wave](https://github.com/user-attachments/assets/c22f9bd4-5674-4ba7-b4e3-9f6b9ca6e3f2)
+![exp12 wave](https://github.com/user-attachments/assets/35d60ba4-cf7b-426d-8e26-30bf77ff6152)
+
 
 ### RESULT :
 
